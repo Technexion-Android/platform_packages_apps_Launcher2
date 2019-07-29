@@ -25,6 +25,7 @@
     android:paddingTop="@dimen/cell_layout_top_padding"
     android:paddingBottom="@dimen/cell_layout_bottom_padding"
     android:hapticFeedbackEnabled="false"
+    android:visibility="gone"
 
     launcher:cellWidth="@dimen/workspace_cell_width"
     launcher:cellHeight="@dimen/workspace_cell_height"
